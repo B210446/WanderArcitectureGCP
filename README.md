@@ -11,3 +11,6 @@ https://app.diagrams.net/
 ### version 1.3
 - Export SVG & PNG
 - Fix arcitecture
+
+### version 1.35
+- Adding tensorflow
